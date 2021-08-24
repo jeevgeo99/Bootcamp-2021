@@ -1,0 +1,118 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    box-sizing:border-box;
+    align-items: center;
+    
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+.container{
+    
+    height: 590px;
+    overflow-y: scroll;
+    
+    border-color:white ;
+    border-style: groove;
+
+    background-color: white;
+}
+
+.logo{
+    
+    padding-left: 400px;
+    padding-top: 50px;
+
+}
+
+.header h1{
+    padding-left: 400px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #111529;
+    opacity: 1;
+}
+
+.first-image{
+    padding-left: 400px;
+}
+
+.header h3{
+    padding-left: 400px;
+    font-size: 17px;
+    font-style: italic;
+    opacity: 70%;
+}
+
+.list{
+    padding-left: 400px;
+    font-size: 20px;
+    opacity: 1;
+}
+
+.middle h4{
+    padding-left: 400px;
+    font-size: 16px;
+    opacity: 0.9;
+}
+
+.middle img{
+    padding-left: 400px;
+}
+
+.second-line{
+    color: white;
+    padding-left:510px;
+}
+
+.bottom p{
+    padding-left: 430px;  
+    font-size: 16px;
+    color: white;
+    font-style: normal;
+}
+
+
+
+
+
+.button{
+    background-color: #20C8B2;
+    display: inline-block;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 30px;
+    margin-left: 140px;
+    margin-bottom: 20px;
+    color: #FFFFFF;
+}
+
+.last h3{
+    font-style: normal;
+    font-size: 30px;
+    padding-left: 100px;
+}
+
+
+.button2{
+    margin-left: 100px;
+    background-color: #480E83;
+       
+}
+
+ 
+
+
+
+
+
+
+
+
+ 
